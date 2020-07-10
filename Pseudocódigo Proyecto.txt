@@ -1,0 +1,61 @@
+PseudoCódigo:
+
+--------Menu-------
+
+Inicio:
+
+1-Importar (import) modulos a utilizar en el programa(personas y lista_libros)
+2-Crear un diccionario llamado menu que contenga opciones 
+3-Crear una sentencia (def) para seleccion de la lista del menu
+4-Crear Condicionales para la funcion def
+5-Crear una variable boolana cada vez que se ingresa al menu (True)
+6-Imprimir el menu con las opciones
+7-Imprimir "Seleccione una de las opciones del menu"
+8-Crear una variable para el ingreso de la 'opcion'
+9-Imprimir el menu con la opcion seleccionada
+10-Crear condicional para cerrar el menu y finalizar el sistema (Finalizar la variable booleana(False)
+
+Fin
+
+-------Personas------
+Inicio:
+
+1-Crear una lista (arreglo) en un modulo
+2-Insertar Información
+3-Crear una sentecia (def) para imprimir lista
+4-Imprimir lista de personas
+5-Crear una sentencia (def) para ordenar lista
+6-Crear una variable para ingresar el valor por el cual desea ordenarlo
+7-Imprimir lista de personas  mediante una key y la funcion lambda para ordenar la lista
+8-Crear uan sentencia (def) para registro de personas
+9-Crear variable para elegir el id de las personas registradas
+10-imprimir lista de personas registradas
+
+Fin
+
+------Libros------
+
+Inicio:
+
+1-Importar modulo a utilizar (personas)
+2-Crear diccionario de Lista de libros
+3-insertar Informacion 
+4-Crear diccionario de libros prestados
+5-Crear una sentencia(def) para imprimir lista de libros
+6-Crear sentencia (def) para buscar libros
+7-imprimir "que libro busca"
+8-Crear una variable de ingreso de informacion
+9-Crear una variable y su funcion
+10-Crear un bucle para que realice la funcion anterior cada vez que imprima "que libro busca" 
+11-Crear una sentencia(def) para prestar un libro
+12-Imprimir diccionario lista de libros
+13-Imprmir "cual libro necesita"
+14-Crear variable para ingresar el libro prestado
+15-Imprimir a que persona se lo va a prestar
+16-Crear variable para ingreso de persona 
+17-Utilizar el metodo append para agregar elementos a el diccionariode libros prestados
+18-Crear una sentencia para imprimir lista de libros prestados
+19-Imprimir libros prestados 
+
+Fin
+
